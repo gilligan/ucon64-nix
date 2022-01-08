@@ -1,0 +1,20 @@
+{
+  "pins": {
+    "nixpkgs": {
+      "type": "GitHub",
+      "repository": "nixpkgs",
+      "owner": "nixos",
+      "branch": "nixpkgs-unstable",
+      "revision": "568e0bc498ee51fdd88e1e94089de05f2fdbd18b",
+      "hash": "1ij3r9xvcbc1xi7hflsqhigrlxglhbkxl6xrnrh7f2svzbr55fag"
+    },
+    "npins": {
+      "type": "GitHub",
+      "repository": "npins",
+      "owner": "andir",
+      "branch": "master",
+      "revision": "fd22eef6738232477fba10046e2b00406656b09d",
+      "hash": "04h1k1d8qq6ddb8xx3xfz4zk329myfygqva7m56mc00ygnj0cgrp"
+    }
+  }
+}
